@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     }
 
-
+//kommentar
 
     //Uppgift 6 - Koppla eventlyssnare
     
