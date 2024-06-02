@@ -1,0 +1,1 @@
+I am doing a lab to learn how to plan and manage projects using Azure Boards. This lab teaches me how to set up tasks (work items), organize work into sprints (short, planned work periods), and use backlogs (lists of tasks) to keep track of everything
